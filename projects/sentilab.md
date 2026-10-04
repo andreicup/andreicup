@@ -24,7 +24,7 @@ A homelab needs a usable view of real server state without adding an external da
 
 ## Verification
 
-The latest verification record reports local race tests, vet, installer fixtures, frontend build and 41 synthetic browser checks. The previous revision passed the full CI pipeline; the latest update's CI is checked separately.
+The latest verification record reports local race tests, vet, installer fixtures, frontend build and 41 synthetic browser checks. The latest source update also passed the full CI pipeline, including browser and image jobs.
 
 These are software/synthetic-fixture checks documented in the private repository. They do not establish real-world accuracy, compatibility or hardware performance.
 

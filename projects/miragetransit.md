@@ -8,7 +8,7 @@ A transport security research lab built around one deterministic fleet state and
 
 **Status:** 0.1.0.dev2 · deterministic core and replay delivered.  
 **Stack:** Python · SQLite · uv · Typed contracts.  
-**Source:** [Public repository](https://github.com/zCooperHD/MirageTransit).
+**Source:** [Public repository](https://github.com/andreicup/MirageTransit).
 
 ## The engineering problem
 
@@ -26,7 +26,7 @@ A transport security lab becomes inconsistent when every protocol surface invent
 
 The Sprint 2 report records 59 tests and 20 matching 600-tick replays. CI passes lint, strict typing, lock provenance, test execution, packaging and installed-wheel checks.
 
-See the [reviewer guide](https://github.com/zCooperHD/MirageTransit/blob/main/docs/PORTFOLIO.md) and [CI](https://github.com/zCooperHD/MirageTransit/actions) to inspect the public evidence.
+See the [reviewer guide](https://github.com/andreicup/MirageTransit/blob/main/docs/PORTFOLIO.md) and [CI](https://github.com/andreicup/MirageTransit/actions) to inspect the public evidence.
 
 ## What remains
 

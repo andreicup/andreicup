@@ -12,7 +12,7 @@ My projects connect practical problems to inspectable engineering: explicit cont
 
 | Project | What I built | Current delivery |
 | --- | --- | --- |
-| **[MirageTransit](https://github.com/zCooperHD/MirageTransit)** | Deterministic fleet simulation, durable command journal and verified replay for transport security research | **Core + replay delivered** · 0.1.0.dev2 · public source |
+| **[MirageTransit](https://github.com/andreicup/MirageTransit)** | Deterministic fleet simulation, durable command journal and verified replay for transport security research | **Core + replay delivered** · 0.1.0.dev2 · public source |
 | **[TrustNav](projects/trustnav.md)** | GNSS integrity checks, motion fusion, explicit uncertainty and frozen evaluation workflows | **Software candidate** · 1.0.0rc2 · private source |
 | **[OBiCAN](projects/obican.md)** | Passive ESP32 Classical CAN recording, buffered microSD storage and offline log analysis | **Firmware built** · physical bench qualification next · private source |
 | **[CarDock](projects/cardock.md)** | Local AI case workflow combining symptoms, OBD observations and explicitly mapped VCDS imports | **Software alpha** · 0.2 · real model/dock evaluation next · private source |
