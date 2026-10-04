@@ -1,4 +1,4 @@
-![Andrei — Engineering things that move, connect and run](assets/header.svg)
+![Andrei — Engineering things that move, connect and run](assets/portfolio-header.svg)
 
 ### Engineering student. Hands-on builder.
 
